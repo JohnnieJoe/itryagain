@@ -1,1 +1,1 @@
-gh repo clone https://github.com/actions/runner-images.git
+gh repo clone actions/runner-images
